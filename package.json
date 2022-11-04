@@ -1,0 +1,23 @@
+{
+  "name": "maungtinsein",
+  "version": "1.0.0",
+  "description": "kwikwi",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "kwikwi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oakker26/kwikwi.git"
+  },
+  "keywords": [
+    "kwikwi"
+  ],
+  "author": "oakker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oakker26/kwikwi/issues"
+  },
+  "homepage": "https://github.com/oakker26/kwikwi#readme"
+}
